@@ -29,7 +29,8 @@ pip3 install h5py
 There may be more. Just pip3 install like above.
 
 ### Run dependencies
-Change the directory to web-apps-2, then Start the polymer instance: ```
+Change the directory to web-apps-2, then Start the polymer instance: 
+```
 cd web-apps-2
 polymer serve --open"
 ```
